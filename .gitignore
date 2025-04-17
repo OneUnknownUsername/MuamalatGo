@@ -8,11 +8,13 @@
 /.idea/navEditor.xml
 /.idea/assetWizardSettings.xml
 functions/node_modules/
-.runtimeconfig.json
+functions/.runtimeconfig.json
+.idea
 .env
 .DS_Store
 /build
 /captures
 .externalNativeBuild
 .cxx
+.log
 local.properties
